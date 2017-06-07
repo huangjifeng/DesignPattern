@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/adapter" />
             <option value="$PROJECT_DIR$/decorator" />
             <option value="$PROJECT_DIR$/facade" />
+            <option value="$PROJECT_DIR$/iterator" />
             <option value="$PROJECT_DIR$/observer" />
             <option value="$PROJECT_DIR$/strategy" />
             <option value="$PROJECT_DIR$/template" />
