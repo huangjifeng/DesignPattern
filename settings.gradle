@@ -1,1 +1,1 @@
-include ':strategy', ':observer', ':decorator', ':adapter', ':facade', ':template', ':iterator', ':state'
+include ':strategy', ':observer', ':decorator', ':adapter', ':facade', ':template', ':iterator', ':state', ':simplefactory', ':factorymethod', ':protype'
