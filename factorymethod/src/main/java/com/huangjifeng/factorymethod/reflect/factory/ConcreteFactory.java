@@ -3,7 +3,8 @@ package com.huangjifeng.factorymethod.reflect.factory;
 import com.huangjifeng.factorymethod.reflect.car.ICar001;
 
 /**
- * Created by Administrator on 2017/6/24.
+ * 通过反射来获取
+ *
  */
 
 public class ConcreteFactory implements IFactory001 {
